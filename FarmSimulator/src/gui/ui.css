@@ -1,0 +1,21 @@
+.root{
+    -fx-font-size: 18pt;
+    -fx-font-family: Tahoma;
+    -fx-base: #FF5A09;
+    -fx-text-fill: #FF9900;
+    -fx-background: #393939;
+}
+
+.button{
+    -fx-text-fill: #FFFFFF;
+    -fx-border-color: #F3843E;
+    -fx-border-radius: 5;
+    -fx-padding: 3 6 6 6;
+}
+
+.borders{
+    -fx-border-color: #F9DF8D;
+    -fx-border-style: dotted;
+    -fx-border-width: 1.5;
+    -fx-border-insets: -5;
+}
